@@ -41,6 +41,8 @@ def evaluate_polynomial(coeffs, x):
     return (x, sum(f_x))
 
 
+# Adds comment galois poly
+
 def galois_polynomial(
     coeffs,
     x,
