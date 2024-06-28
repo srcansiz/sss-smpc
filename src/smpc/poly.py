@@ -26,6 +26,7 @@ def extended_euclidian_alg(a, b) -> Tuple[int, int, int]:
     gcd = b
     return gcd, x, y
 
+# Evaluates a polynomial
 
 def evaluate_polynomial(coeffs, x):
     """Computes given polynomial function of given degree
