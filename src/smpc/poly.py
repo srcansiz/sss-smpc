@@ -113,6 +113,7 @@ def mod_invers(k, prime):
     inv, _ = extended_gcd()
 
 
+# Comment from 3.
 def lagrange_interpolate_gf(
     x,
     k,
