@@ -1,7 +1,7 @@
 """
 Polynomial functions
 """
-
+# Info
 from typing import Tuple
 
 
